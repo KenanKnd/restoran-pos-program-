@@ -1,0 +1,5 @@
+C:\Users\çakma kovboy\Desktop\restoran formu.exe
+C:\Users\çakma kovboy\Desktop\restoran formu.dll
+C:\Users\çakma kovboy\Desktop\restoran formu.deps.json
+C:\Users\çakma kovboy\Desktop\restoran formu.runtimeconfig.json
+C:\Users\çakma kovboy\Desktop\restoran formu.pdb
